@@ -36,13 +36,13 @@
 * текстовый редактор;
 * калькулятор.
 
-**Ответ: **
+**Ответ:**
 
 - оконный менеджер - 2 уровень (O/S Services);
 
 - файловый менеджер - 2 уровень (O/S Services);
 
-- Веб-браузер - 1 уровень (User Applications);
+- веб-браузер - 1 уровень (User Applications);
 
 - текстовый редактор - 1 уровень (User Applications);
 
@@ -56,6 +56,6 @@
 
 **Ответ:**
 
-- DEB дистрибутивы: Linux Mint, Ubuntu
+- DEB дистрибутивы: Linux Mint, Ubuntu;
 
-- RPM дистрибутивы: Fedora, CentOS
+- RPM дистрибутивы: Fedora, CentOS.
